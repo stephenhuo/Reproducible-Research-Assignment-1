@@ -1,7 +1,7 @@
 ---
 title: "R markdown file"
-author: "Lefei Tong"
-date: "Tuesday, November 11, 2014"
+author: "Yongyang Huo"
+date: "Sunday, May 17, 2015"
 output: html_document
 ---
 
