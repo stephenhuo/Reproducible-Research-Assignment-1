@@ -10,7 +10,7 @@ Read data from file:
 
 ```r
 ##load data
-data <- read.csv("C:/Users/Lefei/Downloads/repdata-data-activity/activity.csv")
+data <- read.csv("C:/Downloads/repdata-data-activity/activity.csv")
 ```
 
 Histogram of the total number of steps taken each day
