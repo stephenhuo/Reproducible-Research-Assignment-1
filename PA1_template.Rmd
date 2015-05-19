@@ -5,10 +5,10 @@ date: "Sunday, May 17, 2015"
 output: html_document
 ---
 
-Read data from file:
+## Loading and preprocessing the data
 
 ```{r}
-##load data
+##load data, save as data.frame format
 data <- read.csv("C:/Downloads/repdata-data-activity/activity.csv")
 ```
 
